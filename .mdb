@@ -1,0 +1,8 @@
+{
+  "projectName": "strapi-test",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "yarn",
+  "hash": "c4d77409"
+}
