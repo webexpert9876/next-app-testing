@@ -14,7 +14,7 @@ const Component = dynamic(() => import("./slider"), {
 export default function Home() {
   return (
     <>
-      <Component />
+      <Component /> 
 
 
     </>
